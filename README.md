@@ -1,5 +1,5 @@
 # Right brain meets left brain
-## Hi there, I'm Sal  👋
+<h2>Hi there, I'm Sal  👋</h2>
 
 Strategists 👨‍💻 vs. Artists 👨‍🎨. Data scientists 📊 vs. Designers 🎨. Logic vs. Creativity. 
 What happens when you combine all these skills to solve a problem?
