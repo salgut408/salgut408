@@ -4,7 +4,7 @@
 Strategists 👨‍💻 vs. Artists 👨‍🎨. Data scientists 📊 vs. Designers 🎨. Logic vs. Creativity. 
 What happens when you combine all these skills to solve a problem?
 
-Artist turned Android developer, creating interesting mobile applications that are intuitive and great UI. <br>
+<b>Artist</b> turned <b>Android developer</b>, creating interesting mobile applications that are intuitive and great UI. <br>
 Interested in the intersection of Art & Technology
 Always learning, always refactoring :sweat_smile: Feedback drives iteration.
 
