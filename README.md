@@ -8,6 +8,8 @@ Artist turned Android developer, creating interesting mobile applications that a
 Interested in the intersection of Art & Technology
 Always learning, always refactoring :sweat_smile: Feedback drives iteration.
 
+ My favorite tech stack: `Android`, `Kotlin`, `XML`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`, `Koin`
+
 
 - 🔭 I’m currently working on MLB & Art Apps 
 - 🌱 I’m currently learning Jetpack Compose
