@@ -6,7 +6,6 @@ What happens when you combine all these skills to solve a problem?
 
 <b>Artist</b> turned <b>Android developer</b>, creating interesting mobile applications that are intuitive and great UI. <br>
 Interested in the intersection of Art & Technology
-Always learning, always refactoring :sweat_smile: Feedback drives iteration.
 
  My favorite tech stack: `Android`, `Kotlin`, `XML`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`, `Koin`
 
