@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, I'm Sal  👋
+Android developer, creating interesting mobile applications that are intuitive and great UI.
+Always learning, always refactoring :sweat_smile:
 
 
 - 🔭 I’m currently working on ...
