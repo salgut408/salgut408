@@ -1,7 +1,7 @@
 # Right brain meets left brain
 <h2>Hi there, I'm Sal  👋</h2>
 
-Interested in the intersection of Art & Technology
+Interested in the intersection of Art & Technology, all things Android dev.
 
  My favorite tech stack: `Android`, `Kotlin`, `XML`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`, `Koin`
 
