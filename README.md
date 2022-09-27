@@ -10,4 +10,6 @@ Interested in the intersection of Art & Technology, all things Android dev.
 - 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on Any android app!
 
+Checkout my app on the Google Play store!
+https://play.google.com/store/apps/details?id=com.salgut.android.aicartapp
  
