@@ -6,7 +6,7 @@ Interested in the intersection of Art & Technology, all things Android dev.
  My favorite tech stack: `Android`, `Kotlin`, `XML`, `MVVM`, `Clean Architecture`, `Coroutines`, `Dagger-Hilt`, `Architecture Components` (`LiveData`, `Lifecycle`, `Room`, `ViewModel`), `Retrofit2`, `Koin`
 
 
-- 🔭 I’m currently working on a baseball app
+- 🔭 I’m currently working on an AR app
 - 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on Any android app!
 
