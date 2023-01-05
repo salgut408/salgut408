@@ -11,7 +11,7 @@ living in and becoming increasingly dependent on.
 
 
 - 🌱 I’m currently learning using ARCore for augmented reality and ML Kit for machine learning.
-- 🌱 I’m also working on an app using the ESPN api using Jetpack compose and strict MVVM.
+- 🌱 I’m also working on an app using the ESPN api using Jetpack compose and MVVM.
 
 
 Checkout my app on the Google Play store!
